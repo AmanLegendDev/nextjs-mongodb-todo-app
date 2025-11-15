@@ -35,6 +35,9 @@ MongoDB Atlas	Cloud database
 Mongoose	MongoDB ODM
 TailwindCSS	Styling
 Vercel	Deployment
+
+
+
 📂 Project Structure
 src/
  ├── app/
